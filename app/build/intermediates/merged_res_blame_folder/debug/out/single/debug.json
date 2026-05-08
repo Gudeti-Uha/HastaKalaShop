@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.hastakala.shop.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.hastakala.shop.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-53:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.hastakala.shop.app-main-55:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.hastakala.shop.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-53:/drawable_spinner_bg.xml.flat",
+        "source": "com.hastakala.shop.app-main-55:/drawable/spinner_bg.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-53:/layout_fragment_dashboard.xml.flat",
+        "source": "com.hastakala.shop.app-main-55:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-53:/layout_fragment_stock.xml.flat",
+        "source": "com.hastakala.shop.app-main-55:/layout/fragment_stock.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-53:/layout_fragment_best_sellers.xml.flat",
+        "source": "com.hastakala.shop.app-main-55:/layout/fragment_best_sellers.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-53:/layout_fragment_income.xml.flat",
+        "source": "com.hastakala.shop.app-main-55:/layout/fragment_income.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-53:/layout_activity_main.xml.flat",
+        "source": "com.hastakala.shop.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-53:/navigation_nav_graph.xml.flat",
+        "source": "com.hastakala.shop.app-main-55:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-53:/color_nav_item_color.xml.flat",
+        "source": "com.hastakala.shop.app-main-55:/color/nav_item_color.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-53:/layout_activity_add_sale.xml.flat",
+        "source": "com.hastakala.shop.app-main-55:/layout/activity_add_sale.xml"
+    }
+]

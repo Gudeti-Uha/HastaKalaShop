@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hasta-Kala Shop</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_best_sellers">Best Sellers</string>
+    <string name="nav_income">Income</string>
+    <string name="nav_stock">Stock</string>
+</resources>

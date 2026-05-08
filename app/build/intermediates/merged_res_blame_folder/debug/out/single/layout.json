@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.hastakala.shop.app-mergeDebugResources-52:/layout/activity_add_sale.xml",
+        "source": "com.hastakala.shop.app-main-55:/layout/activity_add_sale.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-mergeDebugResources-52:/layout/fragment_dashboard.xml",
+        "source": "com.hastakala.shop.app-main-55:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-mergeDebugResources-52:/layout/fragment_best_sellers.xml",
+        "source": "com.hastakala.shop.app-main-55:/layout/fragment_best_sellers.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-mergeDebugResources-52:/layout/fragment_stock.xml",
+        "source": "com.hastakala.shop.app-main-55:/layout/fragment_stock.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "com.hastakala.shop.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-mergeDebugResources-52:/layout/fragment_income.xml",
+        "source": "com.hastakala.shop.app-main-55:/layout/fragment_income.xml"
+    }
+]

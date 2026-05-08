@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgLight">#FFF8F0</color>
+    <color name="black">#000000</color>
+    <color name="cardBlue">#3498DB</color>
+    <color name="cardGreen">#2ECC71</color>
+    <color name="cardOrange">#FF6B35</color>
+    <color name="cardPurple">#9B59B6</color>
+    <color name="colorAccent">#FF6D00</color>
+    <color name="colorPrimary">#E65100</color>
+    <color name="colorPrimaryDark">#BF360C</color>
+    <color name="colorWarning">#F57C00</color>
+    <color name="nav_item_selected">#E65100</color>
+    <color name="nav_item_unselected">#9E9E9E</color>
+    <color name="textDark">#212121</color>
+    <color name="textGray">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Hasta-Kala Shop</string>
+    <string name="nav_best_sellers">Best Sellers</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_income">Income</string>
+    <string name="nav_stock">Stock</string>
+    <style name="FilterButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="strokeColor">@color/colorPrimary</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="cornerRadius">20dp</item>
+        <item name="backgroundTint">@color/white</item>
+    </style>
+    <style name="ProductButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/textDark</item>
+        <item name="strokeColor">@color/colorPrimary</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:lines">2</item>
+        <item name="backgroundTint">@color/white</item>
+        <item name="rippleColor">@color/colorAccent</item>
+    </style>
+    <style name="Theme.HastaKalaShop" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/bgLight</item>
+    </style>
+</resources>
